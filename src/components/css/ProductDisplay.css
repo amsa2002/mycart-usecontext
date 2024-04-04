@@ -7,9 +7,7 @@ img.cartpage{
     width: 286px !important;
     height: 100%;
 }
-.card{
-    border: none !important;
-}
+
 .card-body{
     margin-left: 20px;
 }
@@ -50,7 +48,7 @@ img.cartpage{
     padding: 10px 10px;
     position: relative;
     right: -177px;
-    bottom: -70px;
+    bottom: 0px;
     background: none;
     color:blueviolet;
 }
