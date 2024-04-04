@@ -1,0 +1,93 @@
+
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://m.media-amazon.com/images/I/51G+UDiRqGL._AC_UY218_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/51G+UDiRqGL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/514vVjXtDZL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/41o-yANbpzL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/31g78sQaA6L._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/51WXI52+3jL._SL1000_.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "iPhone X",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://m.media-amazon.com/images/I/514vVjXtDZL._SL1000_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/71657TiFeHL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51brdXeugJL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/712CBkmhLhL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/617JW0DrG8L._SL1500_.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Samsung Universe 9",
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+            "price": 1249,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail": "https://m.media-amazon.com/images/I/61KS0FiB5CL._AC_UY218_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/61KS0FiB5CL._AC_UY218_.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "OPPOF19",
+            "description": "OPPO F19 is officially announced on April 2021.",
+            "price": 280,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "OPPO",
+            "category": "smartphones",
+            "thumbnail": "https://m.media-amazon.com/images/I/51L-xRAgI1L._AC_UY218_T2F_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/51L-xRAgI1L._AC_UY218_T2F_.jpg",
+                "https://m.media-amazon.com/images/I/51gEJb8upiL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/41FGiMweMVL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/516wM2E4GXL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/31n2Fz0PPQL._SL1000_.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Redmi 13C 5G",
+            "description": "Startrail Silver, 4GB RAM, 128GB Storage | MediaTek Dimensity 6100+ 5G | 90Hz Display",
+            "price": 499,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Huawei",
+            "category": "smartphones",
+            "thumbnail": "https://m.media-amazon.com/images/I/51gEJb8upiL._SL1000_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/813ZN8Pj-HL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Lo6IAE5bL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81mw0VeB4AL._SL1500_.jpg"
+            ]
+        }
+    ]
+}

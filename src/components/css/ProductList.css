@@ -1,0 +1,14 @@
+.product-list{
+    width: 1000px;
+    margin: 50px auto;
+
+}
+.card-group{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+}
+.card{
+    border: 1px solid #dddddd !important;
+    cursor: pointer;
+}

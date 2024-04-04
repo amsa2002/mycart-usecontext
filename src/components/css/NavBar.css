@@ -1,0 +1,26 @@
+.nav{
+    margin:40px 100px;
+    text-align:center;
+}
+.nav img{
+    width: 35px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+.nav-cart-count{
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -42px;
+    margin-left: 63px;
+    font-size: 14px;
+    background: red;
+    color: white;
+    
+}
+.cart-icon{
+    float: right;
+}
